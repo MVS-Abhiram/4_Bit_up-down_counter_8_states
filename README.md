@@ -1,0 +1,1 @@
+Write synthesizable RTL and TB code for a 4bit binary up-down counter (resetn is active low ,synchronous) that counts the following sequence : -0 up to 8 when counting in an up direction -8 down to 0 when counting in a down direction
